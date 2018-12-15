@@ -1,1 +1,1 @@
-# alpine-basic
+压缩包为alpine的核心文件包
